@@ -1,0 +1,37 @@
+{
+    "9835911833": {
+        "Name": "Ayush",
+        "Phone Number": "9835911833",
+        "E-mail": "qa",
+        "Address": "ed",
+        "Password": "qwe",
+        "Order-History": [
+            {
+                "11/11/22": {
+                    "Food Name": "raita",
+                    "Quantity": 15
+                }
+            },
+            {
+                "11/11/22": {
+                    "Food Name": "rice",
+                    "Quantity": 5
+                }
+            },
+            {
+                "11/13/22": {
+                    "Food Name": "raita",
+                    "Quantity": 10
+                }
+            }
+        ]
+    },
+    "8051160884": {
+        "Name": "Usha",
+        "Phone Number": "8051160884",
+        "E-mail": "ty",
+        "Address": "op",
+        "Password": "ui",
+        "Order-History": []
+    }
+}
